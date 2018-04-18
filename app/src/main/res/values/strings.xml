@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">Tiles</string>
+
+    <string name="menu_help">Help</string>
+    <string name="menu_about">About &#8230;</string>
+    <string name="menu_exit">Exit</string>
+
+    <string name="helpalert_title">Help</string>
+    <string name="helpalert_message1">This is the game of Tiles. In it you try to arrange a scrambled set of tiles
+    numbered from 1 to 15.\n\nFinish with the top-left an empty square, and the numbers running from
+    left-to-right, and top-to-bottom.\n\n(The final number 15 will be in the bottom-right square).</string>
+    <string name="helpalert_message2">Play continues until either you complete the game, or give up!\n\nThat\'s as
+    easy as it gets !</string>
+
+    <string name="helpalert_button_PLAY">Play</string>
+    <string name="helpalert_button_MORE">More</string>
+
+    <string name="aboutalert_title">About</string>
+    <string name="aboutalert_message">Tiles is a simple game, based on code from an early terminal-style computer,
+    the DEC-PDP-8, and written in BASIC. The game was originally ported to the Apple II, and now to here.\n\nby:
+    Mark Capella\nmarkcapella@twcny.rr.com\nirc nick:capella</string>
+    <string name="aboutalert_button_OK">OK</string>
+
+    <string name="gameIsLostAlert_title">Game Over</string>
+    <string name="gameIsLostAlert_message">Oh no! There\'s no place left to move, so you\'ve lost this one.\n\nWould
+    you like to play again?</string>
+    <string name="gameIsLostAlert_button_NO">NO</string>
+    <string name="gameIsLostAlert_button_YES">YES</string>
+
+    <string name="gameIsWonAlert_title">Game Over</string>
+    <string name="gameIsWonAlert_message">Aren\'t you the smart one? You\'ve won this game (and that\'s not an
+    easy thing to do!).\n\nWould you like to play again?</string>
+    <string name="gameIsWonAlert_button_NO">NO</string>
+    <string name="gameIsWonAlert_button_YES">YES</string>
+
+</resources>
